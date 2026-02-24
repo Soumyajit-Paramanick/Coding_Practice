@@ -44,7 +44,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
-| 1 | Subtract the Product and Sum of Digits of an Integer | Easy | Custom Practice | ✅ Solved | Imp for TCS |
+| 1 | Subtract the Product and Sum of Digits of an Integer | Easy | [Practice](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | ✅ Solved | Imp for TCS |
 
 ---
 
