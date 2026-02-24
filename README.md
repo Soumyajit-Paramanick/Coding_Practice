@@ -32,7 +32,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
-| 1 | Move Zeroes | Easy | [Practice](https://leetcode.com/problems/move-zeroes/) | ✅ Solved | ⭐ |
+| 1 | Move Zeroes | Easy | [Practice](https://leetcode.com/problems/move-zeroes/) | ✅ Solved | Imp for TCS |
 
 ---
 
@@ -56,7 +56,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
+| 1 | Number Complement | Easy | [Practice](https://leetcode.com/problems/number-complement/) | ✅ Solved | Imp for TCS |
 
 ---
 
