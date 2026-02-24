@@ -33,6 +33,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Move Zeroes | Easy | [Practice](https://leetcode.com/problems/move-zeroes/) | ✅ Solved | Imp for TCS |
+| 1 | Sort Colors | Medium | [Practice](https://leetcode.com/problems/sort-colors/) | ✅ Solved | Imp for TCS |
 
 ---
 
