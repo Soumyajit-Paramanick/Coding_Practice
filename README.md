@@ -57,6 +57,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Number Complement | Easy | [Practice](https://leetcode.com/problems/number-complement/) | ✅ Solved | Imp for TCS |
+| 2 | Complement of Base 10 Integer | Easy | [Practice](https://leetcode.com/problems/complement-of-base-10-integer/) | ✅ Solved | Imp for TCS |
 
 ---
 
