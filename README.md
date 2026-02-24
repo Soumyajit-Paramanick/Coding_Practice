@@ -34,8 +34,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Move Zeroes | Easy | [Practice](https://leetcode.com/problems/move-zeroes/) | ✅ Solved | Imp for TCS |
 | 2 | Sort Colors | Medium | [Practice](https://leetcode.com/problems/sort-colors/) | ✅ Solved | Imp for TCS |
-| 3 | Array Leaders
- | Easy | [Practice](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | ✅ Solved | Imp for TCS |
+| 3 | Array Leaders | Easy | [Practice](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | ✅ Solved | Imp for TCS |
 
 ---
 
