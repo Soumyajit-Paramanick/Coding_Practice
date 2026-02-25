@@ -41,6 +41,8 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 6 | Find Numbers with Even Number of Digits | Easy | [Practice](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ Solved | Imp for TCS |
 | 7 | Min and Max in Array
  | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | ✅ Solved | Imp for TCS |
+ | 8 | First and Second Smallests
+ | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | ✅ Solved | Imp for TCS |
 
 ---
 
