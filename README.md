@@ -43,6 +43,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 8 | First and Second Smallests | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | ✅ Solved | Imp for TCS |
 | 9 | Binary Search | Easy | [Practice](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | ✅ Solved | Imp for TCS |
 | 10 | Find Minimum in Rotated Sorted Array | Medium | [Practice](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ Solved | Imp for TCS |
+| 11 | Largest in Array | Easy | [Practice](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | ✅ Solved | Imp for TCS |
 
 ---
 
