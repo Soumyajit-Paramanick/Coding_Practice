@@ -111,7 +111,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
+| 1 | Count Elements With Maximum Frequency | Easy | [Practice](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | ✅ Solved | Imp for TCS |
 
 ---
 
