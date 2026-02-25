@@ -38,6 +38,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 3 | Array Leaders | Easy | [Practice](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | ✅ Solved | Imp for TCS |
 | 4 | Best Time to Buy and Sell Stock | Easy | [Practice](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Solved | Imp for TCS |
 | 5 | Factorials of large numbers | Medium | [Practice](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | ✅ Solved | Imp for TCS, BigInteger concept |
+| 6 | Find Numbers with Even Number of Digits | Easy | [Practice](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ Solved | Imp for TCS |
 
 ---
 
