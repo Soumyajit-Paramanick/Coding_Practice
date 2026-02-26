@@ -72,6 +72,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 2 | Reverse String | Easy | [Practice](https://leetcode.com/problems/reverse-string/) | ✅ Solved | Imp for TCS |
 | 3 | Score of a String | Easy | [Practice](https://leetcode.com/problems/score-of-a-string/) | ✅ Solved | Imp for TCS |
 | 4 | Valid Palindrome | Easy | [Practice](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved | Imp for TCS |
+| 5 | Remove vowels from string | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | ✅ Solved | Imp for TCS |
 
 ---
 
