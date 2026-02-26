@@ -71,6 +71,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 1 | Maximum Number of Vowels in a Substring of Given Length | Easy | [Practice](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Solved | Imp for TCS |
 | 2 | Reverse String | Easy | [Practice](https://leetcode.com/problems/reverse-string/) | ✅ Solved | Imp for TCS |
 | 3 | Score of a String | Easy | [Practice](https://leetcode.com/problems/score-of-a-string/) | ✅ Solved | Imp for TCS |
+| 4 | Valid Palindrome | Easy | [Practice](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved | Imp for TCS |
 
 ---
 
