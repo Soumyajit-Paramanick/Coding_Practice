@@ -47,6 +47,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 12 | Running Sum of 1d Array | Easy | [Practice](https://leetcode.com/problems/running-sum-of-1d-array/) | ✅ Solved | Imp for TCS |
 | 13 | Median of an Array | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-the-median0527/1) | ✅ Solved | Imp for TCS |
 | 14 | Bubble Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/bubble-sort/1) | ✅ Solved | Imp for TCS |
+| 15 | Selection Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/selection-sort/1) | ✅ Solved | Imp for TCS |
 
 ---
 
