@@ -74,6 +74,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 4 | Valid Palindrome | Easy | [Practice](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved | Imp for TCS |
 | 5 | Remove vowels from string | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | ✅ Solved | Imp for TCS |
 | 6 | Remove Spaces | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-spaces0128/1) | ✅ Solved | Imp for TCS |
+| 7 | Remove all characters other than alphabets | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1) | ✅ Solved | Imp for TCS |
 
 ---
 
