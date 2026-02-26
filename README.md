@@ -50,6 +50,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 15 | Selection Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/selection-sort/1) | ✅ Solved | Imp for TCS |
 | 16 | Remove Duplicates from unsorted array | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1) | ✅ Solved | Imp for TCS |
 | 17 | Find All Duplicates in an Array | Medium | [Practice](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ Solved | Imp for TCS |
+| 17 | Non-Repeating Element | Easy | [Practice](https://www.geeksforgeeks.org/problems/non-repeating-element3958/1) | ✅ Solved | Imp for TCS |
 
 ---
 
