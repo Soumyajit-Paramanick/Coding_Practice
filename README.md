@@ -48,6 +48,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 13 | Median of an Array | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-the-median0527/1) | ✅ Solved | Imp for TCS |
 | 14 | Bubble Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/bubble-sort/1) | ✅ Solved | Imp for TCS |
 | 15 | Selection Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/selection-sort/1) | ✅ Solved | Imp for TCS |
+| 16 | Remove Duplicates from unsorted array | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1) | ✅ Solved | Imp for TCS |
 
 ---
 
