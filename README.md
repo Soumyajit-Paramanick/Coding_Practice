@@ -79,7 +79,8 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 9 | Reverse Words in a String | Medium | [Practice](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Solved | Imp for TCS |
 | 10 | Find the Index of the First Occurrence in a String | Easy | [Practice](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1932518310/) | ✅ Solved | Imp for TCS |
 | 11 | String Concatenation | Easy | [Practice](https://www.geeksforgeeks.org/problems/string-concatenation-1614157859/1) | ✅ Solved | Imp for TCS |
-| 11 | Letter Case Permutation | Medium | [Practice](https://leetcode.com/problems/letter-case-permutation/) | ✅ Solved | Backtracking Concept clear |
+| 12 | Letter Case Permutation | Medium | [Practice](https://leetcode.com/problems/letter-case-permutation/) | ✅ Solved | Backtracking Concept clear |
+| 13 | Maximum Repeating Substring | Easy | [Practice](https://leetcode.com/problems/maximum-repeating-substring/) | ✅ Solved | Backtracking Concept clear |
 
 ---
 
