@@ -83,6 +83,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 13 | Maximum Repeating Substring | Easy | [Practice](https://leetcode.com/problems/maximum-repeating-substring/) | ✅ Solved | Imp for TCS |
 | 14 | Counting Words With a Given Prefix | Easy | [Practice](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | ✅ Solved | Imp for TCS |
 | 15 | Count number of words | Easy | [Practice](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) | ✅ Solved | Imp for TCS ⭐ Importantn concept|
+| 16 | Sort a String | Easy | [Practice](https://www.geeksforgeeks.org/problems/sort-a-string2943/1) | ✅ Solved | Imp for TCS |
 
 ---
 
