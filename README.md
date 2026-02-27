@@ -76,6 +76,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 6 | Remove Spaces | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-spaces0128/1) | ✅ Solved | Imp for TCS |
 | 7 | Remove all characters other than alphabets | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1) | ✅ Solved | Imp for TCS |
 | 8 | Reverse Vowels of a String | Easy | [Practice](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Solved | Imp for TCS |
+| 9 | Reverse Words in a String | Medium | [Practice](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Solved | Imp for TCS |
 
 ---
 
