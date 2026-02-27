@@ -81,6 +81,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 11 | String Concatenation | Easy | [Practice](https://www.geeksforgeeks.org/problems/string-concatenation-1614157859/1) | ✅ Solved | Imp for TCS |
 | 12 | Letter Case Permutation | Medium | [Practice](https://leetcode.com/problems/letter-case-permutation/) | ✅ Solved | Backtracking Concept clear |
 | 13 | Maximum Repeating Substring | Easy | [Practice](https://leetcode.com/problems/maximum-repeating-substring/) | ✅ Solved | Imp for TCS |
+| 14 | Counting Words With a Given Prefix | Easy | [Practice](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | ✅ Solved | Imp for TCS |
 
 ---
 
