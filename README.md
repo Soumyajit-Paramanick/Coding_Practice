@@ -92,6 +92,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 22 | Common Subsequence OldP | Easy | [Practice](https://www.geeksforgeeks.org/problems/common-subsequence-oldp3752/1) | ✅ Solved | Imp for TCS |
 | 23 | Most Frequent Character | Easy | [Practice](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | ✅ Solved | Imp for TCS |
 | 24 | String Duplicates Removal | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | ✅ Solved | Imp for TCS |
+| 25 | Remove characters from first string present in the second string | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-character3815/1) | ✅ Solved | Imp for TCS |
 
 ---
 
