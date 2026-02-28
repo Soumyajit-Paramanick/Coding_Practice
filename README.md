@@ -88,6 +88,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 18 | Capitalize the Title | Easy | [Practice](https://leetcode.com/problems/capitalize-the-title/) | ✅ Solved | Imp for TCS |
 | 19 | Count the characters | Easy | [Practice](https://www.geeksforgeeks.org/problems/count-the-characters1821/1) | ✅ Solved | Imp for TCS |
 | 20 | First Unique Character in a String | Easy | [Practice](https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅ Solved | Imp for TCS |
+| 21 | Valid Anagram | Easy | [Practice](https://leetcode.com/problems/valid-anagram/submissions/1409402570/) | ✅ Solved | Imp for TCS |
 
 ---
 
