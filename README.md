@@ -51,6 +51,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 16 | Remove Duplicates from unsorted array | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1) | ✅ Solved | Imp for TCS |
 | 17 | Find All Duplicates in an Array | Medium | [Practice](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ Solved | Imp for TCS |
 | 18 | Non-Repeating Element | Easy | [Practice](https://www.geeksforgeeks.org/problems/non-repeating-element3958/1) | ✅ Solved | Imp for TCS |
+| 19 | Remove Duplicates from Sorted Array | Easy | [Practice](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved | Imp for TCS |
 
 ---
 
@@ -93,6 +94,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 23 | Most Frequent Character | Easy | [Practice](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | ✅ Solved | Imp for TCS |
 | 24 | String Duplicates Removal | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | ✅ Solved | Imp for TCS |
 | 25 | Remove characters from first string present in the second string | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-character3815/1) | ✅ Solved | Imp for TCS |
+
 
 ---
 
