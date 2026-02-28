@@ -87,6 +87,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 17 | Calculate Digit Sum of a String | Easy | [Practice](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | ✅ Solved | Imp for TCS ⭐ Importantn concept|
 | 18 | Capitalize the Title | Easy | [Practice](https://leetcode.com/problems/capitalize-the-title/) | ✅ Solved | Imp for TCS |
 | 19 | Count the characters | Easy | [Practice](https://www.geeksforgeeks.org/problems/count-the-characters1821/1) | ✅ Solved | Imp for TCS |
+| 20 | First Unique Character in a String | Easy | [Practice](https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅ Solved | Imp for TCS |
 
 ---
 
