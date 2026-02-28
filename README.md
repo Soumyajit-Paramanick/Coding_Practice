@@ -62,6 +62,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 1 | Subtract the Product and Sum of Digits of an Integer | Easy | [Practice](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | ✅ Solved | Imp for TCS |
 | 2 | Multiply Strings | Medium | [Practice](https://leetcode.com/problems/multiply-strings/) | ✅ Solved |     Basic Clear |
 | 3 | Add Digits | Easy | [Practice](https://leetcode.com/problems/add-digits/submissions/1411823969/) | ✅ Solved | Imp for TCS |
+| 4 | Palindrome Number | Easy | [Practice](https://leetcode.com/problems/palindrome-number/) | ✅ Solved | Imp for TCS |
 
 ---
 
