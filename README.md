@@ -70,6 +70,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 9 | Check if a number is perfect number | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/perfect-numbers-cisco/) | ✅ Solved | Imp for TCS |
 | 10 | Even or Odd | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/even-or-odd-7/) | ✅ Solved | Imp for TCS |
 | 11 | Sum of first N natural numbers | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/sum-of-natural-numbers/) | ✅ Solved | Imp for TCS |
+| 12 | Arithmetic Progression - minimum step needed | Easy | [Practice](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/) | ✅ Solved | Imp for TCS |
 
 ---
 
