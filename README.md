@@ -69,6 +69,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 8 | Check if a number is armstrong number of not | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/armstrong-number-12-862cf0ed/) | ✅ Solved | Imp for TCS |
 | 9 | Check if a number is perfect number | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/perfect-numbers-cisco/) | ✅ Solved | Imp for TCS |
 | 10 | Even or Odd | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/even-or-odd-7/) | ✅ Solved | Imp for TCS |
+| 11 | Sum of first N natural numbers | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/sum-of-natural-numbers/) | ✅ Solved | Imp for TCS |
 
 ---
 
