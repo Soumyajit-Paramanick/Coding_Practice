@@ -64,6 +64,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 3 | Add Digits | Easy | [Practice](https://leetcode.com/problems/add-digits/submissions/1411823969/) | ✅ Solved | Imp for TCS |
 | 4 | Palindrome Number | Easy | [Practice](https://leetcode.com/problems/palindrome-number/) | ✅ Solved | Imp for TCS |
 | 5 | Find all Palindrome numbers in a given range | Easy | [Practice](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/palindromic-numbers-7/) | ✅ Solved | Imp for TCS |
+| 6 | Check if a number is prime or not | Easy | [Practice](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-number-6/) | ✅ Solved | Imp for TCS |
 
 ---
 
