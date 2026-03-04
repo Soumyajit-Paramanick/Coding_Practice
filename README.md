@@ -86,6 +86,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 25 | Calculate the Power | Easy | [Practice](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/) | ✅ Solved | Imp for TCS ⭐ Importantn concept|
 | 26 | Number of factors | Easy | [Practice](https://www.geeksforgeeks.org/problems/number-of-factors1435/1) | ✅ Solved | Imp for TCS |
 | 27 | STRONG NUMBER | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/strong-number-2-e71bae03-13ed4908/) | ✅ Solved | Imp for TCS |
+| 28 | Check if a Number is Automorphic | Easy | [Practice](https://www.geeksforgeeks.org/problems/automorphic-number4721/1) | ✅ Solved | Imp for TCS |
 
 ---
 
