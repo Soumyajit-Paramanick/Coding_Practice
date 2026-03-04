@@ -87,6 +87,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 26 | Number of factors | Easy | [Practice](https://www.geeksforgeeks.org/problems/number-of-factors1435/1) | ✅ Solved | Imp for TCS |
 | 27 | STRONG NUMBER | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/strong-number-2-e71bae03-13ed4908/) | ✅ Solved | Imp for TCS |
 | 28 | Check if a Number is Automorphic | Easy | [Practice](https://www.geeksforgeeks.org/problems/automorphic-number4721/1) | ✅ Solved | Imp for TCS |
+| 29 | GCD of consecutive number | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/gcd-17-8064d146-635f817b/) | ✅ Solved | Imp for TCS |
 
 ---
 
