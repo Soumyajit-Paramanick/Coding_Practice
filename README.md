@@ -80,6 +80,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 19 | Find maximum number | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-maximum-number2152/1) | ✅ Solved | Imp for TCS |
 | 20 | Single digit sum | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/sum-of-digits-208/) | ✅ Solved | Imp for TCS |
 | 21 | Sum of Digits | Easy | [Practice](https://www.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1) | ✅ Solved | Imp for TCS |
+| 22 | Factorial of a number | Easy | [Practice](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) | ✅ Solved | Imp for TCS |
 
 ---
 
