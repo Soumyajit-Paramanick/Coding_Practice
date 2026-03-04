@@ -78,6 +78,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 17 | Reverse digits of a number | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/reverse-integer-7-703fc1e7-61d96295/) | ✅ Solved | Imp for TCS |
 | 18 | Max Min | Easy | [Practice](https://www.hackerrank.com/challenges/angry-children/problem) | ✅ Solved | Imp for TCS |
 | 19 | Find maximum number | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-maximum-number2152/1) | ✅ Solved | Imp for TCS |
+| 20 | Single digit sum | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/sum-of-digits-208/) | ✅ Solved | Imp for TCS |
 
 ---
 
