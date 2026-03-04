@@ -90,6 +90,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 29 | GCD of consecutive number | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/gcd-17-8064d146-635f817b/) | ✅ Solved | Imp for TCS |
 | 30 | GCD of two numbers | Easy | [Practice](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | ✅ Solved | Imp for TCS |
 | 31 | LCM of two numbers | Easy | [Practice](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | ✅ Solved | Imp for TCS |
+| 32 | Harshad Number | Easy | [Practice](https://leetcode.com/problems/harshad-number/) | ✅ Solved | Imp for TCS |
 
 ---
 
