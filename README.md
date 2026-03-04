@@ -79,6 +79,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 18 | Max Min | Easy | [Practice](https://www.hackerrank.com/challenges/angry-children/problem) | ✅ Solved | Imp for TCS |
 | 19 | Find maximum number | Easy | [Practice](https://www.geeksforgeeks.org/problems/find-maximum-number2152/1) | ✅ Solved | Imp for TCS |
 | 20 | Single digit sum | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/sum-of-digits-208/) | ✅ Solved | Imp for TCS |
+| 21 | Sum of Digits | Easy | [Practice](https://www.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1) | ✅ Solved | Imp for TCS |
 
 ---
 
