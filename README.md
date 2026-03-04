@@ -74,6 +74,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 13 | Sum of AP series | Easy | [Practice](https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | ✅ Solved | Imp for TCS |
 | 14 | Sum of GP | Easy | [Practice](https://www.geeksforgeeks.org/problems/sum-of-gp2120/1) | ✅ Solved | Imp for TCS |
 | 15 | Greatest of three numbers | Easy | [Practice](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1) | ✅ Solved | Imp for TCS |
+| 16 | Leap Year or not | Easy | [Practice](https://www.geeksforgeeks.org/problems/leap-year0943/1) | ✅ Solved | Imp for TCS |
 
 ---
 
