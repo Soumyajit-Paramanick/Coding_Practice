@@ -81,6 +81,8 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 20 | Single digit sum | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/sum-of-digits-208/) | ✅ Solved | Imp for TCS |
 | 21 | Sum of Digits | Easy | [Practice](https://www.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1) | ✅ Solved | Imp for TCS |
 | 22 | Factorial of a number | Easy | [Practice](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) | ✅ Solved | Imp for TCS |
+| 23 | Fibonacci series up to Nth term | Easy | [Practice](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1&selectedLang=python3) | ✅ Solved | Imp for TCS |
+| 24 | Fibonacci of N'th term | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/fibonacci-seris/) | ✅ Solved | Imp for TCS |
 
 ---
 
