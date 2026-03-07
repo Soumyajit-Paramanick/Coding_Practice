@@ -52,6 +52,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 17 | Find All Duplicates in an Array | Medium | [Practice](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ Solved | Imp for TCS |
 | 18 | Non-Repeating Element | Easy | [Practice](https://www.geeksforgeeks.org/problems/non-repeating-element3958/1) | ✅ Solved | Imp for TCS |
 | 19 | Remove Duplicates from Sorted Array | Easy | [Practice](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved | Imp for TCS |
+| 20 | Reverse a given array | Easy | [Practice](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/print-array-in-reverse/) | ✅ Solved | Imp for TCS |
 
 ---
 
