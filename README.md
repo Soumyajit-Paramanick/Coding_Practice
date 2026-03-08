@@ -63,7 +63,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 28 | Sorting Elements of an Array by Frequency | Easy | [Practice](https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/1) | ✅ Solved | Imp for TCS |
 | 29 | Maximum Product Subarray | Medium | [Practice](https://leetcode.com/problems/maximum-product-subarray/) | ✅ Solved | Imp for TCS |
 | 30 | Check if Array is a subset of another array or not | Easy | [Practice](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | ✅ Solved | Imp for TCS |
-| 30 | Rank Transform of an Array | Easy | [Practice](https://leetcode.com/problems/rank-transform-of-an-array/) | ✅ Solved | Imp for TCS |
+| 31 | Rank Transform of an Array | Easy | [Practice](https://leetcode.com/problems/rank-transform-of-an-array/) | ✅ Solved | Imp for TCS |
 
 ---
 
