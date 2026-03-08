@@ -66,6 +66,9 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 31 | Rank Transform of an Array | Easy | [Practice](https://leetcode.com/problems/rank-transform-of-an-array/) | ✅ Solved | Imp for TCS |
 | 32 | Multiply Matrices | Easy | [Practice](https://www.geeksforgeeks.org/problems/multiply-matrices/1) | ✅ Solved | Imp for TCS |
 | 33 | Number of Multiply Matrices possibility | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/matrix-multiplication/) | ✅ Solved | Imp for TCS |
+| 34 | Spiral Matrix | Medium | [Practice](https://leetcode.com/problems/spiral-matrix/?envType=problem-list-v2&envId=matrix) | ✅ Solved | Imp for TCS |
+| 35 | Search a 2D Matrix - Binary Search | Medium | [Practice](https://leetcode.com/problems/search-a-2d-matrix/?envType=problem-list-v2&envId=matrix) | ✅ Solved | Imp for TCS |
+| 36 | Transpose Matrix | Easy | [Practice](https://leetcode.com/problems/transpose-matrix/?envType=problem-list-v2&envId=matrix) | ✅ Solved | Imp for TCS |
 
 ---
 
