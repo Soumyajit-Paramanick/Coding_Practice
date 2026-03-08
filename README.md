@@ -158,6 +158,11 @@ Although I have solved many problems earlier, this structured sheet helps in:
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Number Complement | Easy | [Practice](https://leetcode.com/problems/number-complement/) | ✅ Solved | Imp for TCS |
 | 2 | Complement of Base 10 Integer | Easy | [Practice](https://leetcode.com/problems/complement-of-base-10-integer/) | ✅ Solved | Imp for TCS |
+| 3 | Binary to Decimal | Easy | [Practice](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | ✅ Solved | Imp for TCS |
+| 4 | Convert Binary to Octal | Easy | [Practice](https://takeuforward.org/data-structure/convert-binary-to-octal) | Logic Done | Imp for TCS |
+| 5 | Decimal to binary | Easy | [Practice](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) | ✅ Solved | Imp for TCS |
+| 6 | Convert decimal to octal | Easy | [Practice](https://takeuforward.org/uncategorized/convert-decimal-to-octal) | Logic Done | Imp for TCS |
+| 7 | Convert octal to decimal | Easy | [Practice](https://takeuforward.org/data-structure/convert-octal-to-decimal) | Logic Done | Imp for TCS |
 
 ---
 
