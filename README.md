@@ -53,6 +53,17 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 18 | Non-Repeating Element | Easy | [Practice](https://www.geeksforgeeks.org/problems/non-repeating-element3958/1) | ✅ Solved | Imp for TCS |
 | 19 | Remove Duplicates from Sorted Array | Easy | [Practice](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved | Imp for TCS |
 | 20 | Reverse a given array | Easy | [Practice](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/print-array-in-reverse/) | ✅ Solved | Imp for TCS |
+| 21 | Rearrange array | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/rearrange/) | ✅ Solved | Imp for TCS |
+| 22 | Rotate array by K elements | Medium | [Practice](https://leetcode.com/problems/rotate-array/) | ✅ Solved | Imp for TCS ⭐ Importantn concept|
+| 23 | Find the median of the given array | Easy | [Practice](https://www.hackerrank.com/challenges/find-the-median/problem) | ✅ Solved | Imp for TCS |
+| 24 | Remove duplicates from a sorted array | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | ✅ Solved | Imp for TCS |
+| 25 | Finding equilibrium index of an array | Easy | [Practice](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | ✅ Solved | Imp for TCS |
+| 26 | Relative Sort Array | Easy | [Practice](https://leetcode.com/problems/relative-sort-array/) | ✅ Solved | Imp for TCS |
+| 27 | Rotate an Array by d - Counterclockwise or Left | Easy | [Practice](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ Solved | Imp for TCS |
+| 28 | Sorting Elements of an Array by Frequency | Easy | [Practice](https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/1) | ✅ Solved | Imp for TCS |
+| 29 | Maximum Product Subarray | Medium | [Practice](https://leetcode.com/problems/maximum-product-subarray/) | ✅ Solved | Imp for TCS |
+| 30 | Check if Array is a subset of another array or not | Easy | [Practice](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | ✅ Solved | Imp for TCS |
+| 30 | Rank Transform of an Array | Easy | [Practice](https://leetcode.com/problems/rank-transform-of-an-array/) | ✅ Solved | Imp for TCS |
 
 ---
 
