@@ -18,13 +18,11 @@ Although I have solved many problems earlier, this structured sheet helps in:
 - [Arrays](#-arrays)
 - [Math & Basic Solutions](#-math--basic-solutions)
 - [Strings](#-strings)
-- [Recursion](#-recursion)
 - [Bit Manipulation](#-bit-manipulation)
 - [Stack](#-stack)
 - [Queue](#-queue)
 - [Linked List](#-linked-list)
 - [HashMap](#-hashmap)
-- [Binary Search](#-binary-search)
 - [Trees](#-trees)
 
 ---
@@ -144,15 +142,6 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 24 | String Duplicates Removal | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | ✅ Solved | Imp for TCS |
 | 25 | Remove characters from first string present in the second string | Easy | [Practice](https://www.geeksforgeeks.org/problems/remove-character3815/1) | ✅ Solved | Imp for TCS |
 
-
----
-
-## 🔹 Recursion
-
-| # | Problem Name | Difficulty | Practice Link | Status | Marker |
-|---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
-
 ---
 
 ## 🔹 Bit Manipulation
@@ -199,14 +188,6 @@ Although I have solved many problems earlier, this structured sheet helps in:
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Count Elements With Maximum Frequency | Easy | [Practice](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | ✅ Solved | Imp for TCS |
 | 2 | Frequency of Elements | Easy | [Practice](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | ✅ Solved | Imp for TCS, LinkedHashMap concept is used |
-
----
-
-## 🔹 Binary Search
-
-| # | Problem Name | Difficulty | Practice Link | Status | Marker |
-|---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
 
 ---
 
