@@ -189,7 +189,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
+| 1 | Cycle Detection | Easy | [Practice](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | ✅ Solved | Imp for TCS |
 
 ---
 
