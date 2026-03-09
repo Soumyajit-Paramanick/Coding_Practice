@@ -70,6 +70,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 35 | Search a 2D Matrix - Binary Search | Medium | [Practice](https://leetcode.com/problems/search-a-2d-matrix/?envType=problem-list-v2&envId=matrix) | ✅ Solved | Imp for TCS |
 | 36 | Transpose Matrix | Easy | [Practice](https://leetcode.com/problems/transpose-matrix/?envType=problem-list-v2&envId=matrix) | ✅ Solved | Imp for TCS |
 | 37 | Insertion Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/insertion-sort/1) | ✅ Solved | Imp for TCS |
+| 37 | Sort 0s, 1s and 2s | Medium | [Practice](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | ✅ Solved | Imp for TCS |
 
 
 ---
