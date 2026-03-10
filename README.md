@@ -179,6 +179,11 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Cycle Detection | Easy | [Practice](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | ✅ Solved | Imp for TCS |
+| 2 | Delete Duplicate Nodes From a Linked List | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/delete-duplicate-nodes-from-a-linked-list/) | ✅ Solved | Imp for TCS |
+| 3 | Merge Two Sorted Lists | Easy | [Practice](https://leetcode.com/problems/merge-two-sorted-lists/?envType=problem-list-v2&envId=linked-list) | ✅ Solved | Imp for TCS |
+| 4 | Middle of the Linked List | Easy | [Practice](https://leetcode.com/problems/middle-of-the-linked-list/?envType=problem-list-v2&envId=linked-list) | ✅ Solved | Imp for TCS |
+| 5 | Reverse Linked List | Easy | [Practice](https://leetcode.com/problems/reverse-linked-list/?envType=problem-list-v2&envId=linked-list) | ✅ Solved | Imp for TCS |
+| 6 | Intersection of Two Linked Lists | Easy | [Practice](https://leetcode.com/problems/intersection-of-two-linked-lists/?envType=problem-list-v2&envId=linked-list) | ✅ Solved | Imp for TCS |
 
 ---
 
