@@ -19,8 +19,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 - [Math & Basic Solutions](#-math--basic-solutions)
 - [Strings](#-strings)
 - [Bit Manipulation](#-bit-manipulation)
-- [Stack](#-stack)
-- [Queue](#-queue)
+- [Stack & Queue](#-stack)
 - [Linked List](#-linked-list)
 - [HashMap](#-hashmap)
 - [Trees](#-trees)
@@ -158,19 +157,11 @@ Although I have solved many problems earlier, this structured sheet helps in:
 
 ---
 
-## 🔹 Stack
+## 🔹 Stack & Queue
 
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
-
----
-
-## 🔹 Queue
-
-| # | Problem Name | Difficulty | Practice Link | Status | Marker |
-|---|-------------|------------|--------------|--------|--------|
-| - | - | - | - | - | - |
+| 1 | Balanced Parathesis Check | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/balanced-parathesis/) | ✅ Solved | Imp for TCS ⭐ BufferedReader Concept Used |
 
 ---
 
