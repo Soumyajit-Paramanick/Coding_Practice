@@ -162,6 +162,8 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | # | Problem Name | Difficulty | Practice Link | Status | Marker |
 |---|-------------|------------|--------------|--------|--------|
 | 1 | Balanced Parathesis Check | Easy | [Practice](https://www.hackerearth.com/problem/algorithm/balanced-parathesis/) | ✅ Solved | Imp for TCS ⭐ BufferedReader Concept Used |
+| 2 | Implement Queue using Stacks | Easy | [Practice](https://leetcode.com/problems/implement-queue-using-stacks/?envType=problem-list-v2&envId=stack) | ✅ Solved | Imp for TCS |
+| 3 | Backspace String Compare | Easy | [Practice](https://leetcode.com/problems/backspace-string-compare/?envType=problem-list-v2&envId=stack) | ✅ Solved | Imp for TCS |
 
 ---
 
