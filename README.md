@@ -19,7 +19,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 - [Math & Basic Solutions](#-math--basic-solutions)
 - [Strings](#-strings)
 - [Bit Manipulation](#-bit-manipulation)
-- [Stack & Queue](#-stack)
+- [Stack & Queue](#-stack--queue)
 - [Linked List](#-linked-list)
 - [HashMap](#-hashmap)
 - [Trees](#-trees)
