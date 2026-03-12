@@ -171,6 +171,7 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 7 | Next Greater Element | Medium | [Practice](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | ✅ Solved | Imp for TCS |
 | 8 | Minimum Add to Make Parentheses Valid | Medium | [Practice](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/?envType=problem-list-v2&envId=stack) | ✅ Solved | Imp for TCS |
 | 9 | Top K Frequent Elements | Medium | [Practice](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ Solved | Imp for TCS |
+| 10 | Prefix, Infix, and Postfix Conversion | Medium | [Practice]([https://leetcode.com/problems/top-k-frequent-elements/](https://www.youtube.com/watch?v=4pIc9UBHJtk&t=16s)) | Logic Done | Imp for TCS |
 
 ---
 
