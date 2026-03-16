@@ -69,6 +69,9 @@ Although I have solved many problems earlier, this structured sheet helps in:
 | 37 | Insertion Sort | Easy | [Practice](https://www.geeksforgeeks.org/problems/insertion-sort/1) | ✅ Solved | Imp for TCS |
 | 38 | Sort 0s, 1s and 2s | Medium | [Practice](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | ✅ Solved | Imp for TCS |
 | 39 | Diagonal Difference | Medium | [Practice](https://www.hackerrank.com/challenges/diagonal-difference/problem?utm_source=chatgpt.com) | ✅ Solved | Imp for TCS |
+| 40 | Maximum Subarray | Medium | [Practice](https://leetcode.com/problems/maximum-subarray/) | ✅ Solved | Imp for TCS |
+| 41 | Subarray Sum Equals K | Medium | [Practice](https://leetcode.com/problems/subarray-sum-equals-k/) | ✅ Solved | Imp for TCS |
+| 42 | Longest Subarray with Sum  | Medium | [Practice](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | ✅ Solved | Imp for TCS |
 
 
 ---
